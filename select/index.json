@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Forever（feat. ポスト・マローン、クレヴァー）",
+  "base_artist": "ジャスティン・ビーバー",
+  "createdAt": "2025-12-23T08:09:02.642222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forever (feat. Lil Wayne)",
+      "artist": "Lil Baby feat. Lil Wayne",
+      "has_synced": true,
+      "path": "select/01_Forever_(feat._Lil_Wayne)_Lil_Baby_feat._Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forever (feat. Lil Wayne)",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/02_Forever_(feat._Lil_Wayne)_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Live Forever (feat. MNDR)",
+      "artist": "Big Data feat. MNDR",
+      "has_synced": false,
+      "path": "select/03_Live_Forever_(feat._MNDR)_Big_Data_feat._MNDR.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever (feat. Kanye West, Lil. Wayne, & Eminem) (Nosaj Thing Remix)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/04_Forever_(feat._Kanye_West,_Lil._Wayne,_&_Eminem)_(Nosaj_Thing_Remix)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Just Forever (feat. Alison Mosshart)",
+      "artist": "Cage The Elephant",
+      "has_synced": true,
+      "path": "select/05_It's_Just_Forever_(feat._Alison_Mosshart)_Cage_The_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who Wants to Live Forever (feat. Damian Wilson and Arjen Lucassen)",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/06_Who_Wants_to_Live_Forever_(feat._Damian_Wilson_and_Arjen_Lucassen)_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Strawberry Fields Forever (feat. The London Symphony Orchestra & the Royal Philharmonic Orchestra)",
+      "artist": "Peter Gabriel feat. London Symphony Orchestra & Royal Philharmonic Orchestra",
+      "has_synced": true,
+      "path": "select/07_Strawberry_Fields_Forever_(feat._The_London_Symphony_Orchestra_&_the_Royal_Philh_Peter_Gabriel_feat._London_Symphony_Orchestra_&_Royal_Philharmonic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forever (feat. Post Malone & Clever)",
+      "artist": "Justin Bieber feat. Post Malone & Clever",
+      "has_synced": true,
+      "path": "select/08_Forever_(feat._Post_Malone_&_Clever)_Justin_Bieber_feat._Post_Malone_&_Clever.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever (feat. Post Malone & Clever)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/09_Forever_(feat._Post_Malone_&_Clever)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rich Forever (feat. John Legend)",
+      "artist": "Rick Ross",
+      "has_synced": true,
+      "path": "select/10_Rich_Forever_(feat._John_Legend)_Rick_Ross.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rich Forever (Feat. John Legend)",
+      "artist": "Rick Ross",
+      "has_synced": true,
+      "path": "select/11_Rich_Forever_(Feat._John_Legend)_Rick_Ross.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gangsta Forever (Feat. La Chat & Playa Fly)",
+      "artist": "Tommy Wright III",
+      "has_synced": false,
+      "path": "select/12_Gangsta_Forever_(Feat._La_Chat_&_Playa_Fly)_Tommy_Wright_III.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can We Kiss Forever? (feat. Adriana Proenza)",
+      "artist": "Kina",
+      "has_synced": true,
+      "path": "select/13_Can_We_Kiss_Forever__(feat._Adriana_Proenza)_Kina.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Now And Forever (feat. Sheena Easton)",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/14_Now_And_Forever_(feat._Sheena_Easton)_Barry_Manilow.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This Is Forever (feat. Danyka Nadeau)",
+      "artist": "Hellberg feat. Danyka Nadeau",
+      "has_synced": true,
+      "path": "select/15_This_Is_Forever_(feat._Danyka_Nadeau)_Hellberg_feat._Danyka_Nadeau.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This Is Forever (feat. Danyka Nadeau)",
+      "artist": "Hellberg",
+      "has_synced": true,
+      "path": "select/16_This_Is_Forever_(feat._Danyka_Nadeau)_Hellberg.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forever (feat. Post Malone & Clever)",
+      "artist": "Justin Bieber, Post Malone, Clever",
+      "has_synced": false,
+      "path": "select/pl_01_Forever_(feat._Post_Malone_&_Clever)_Justin_Bieber,_Post_Malone,_Clever.txt"
+    }
+  ]
+}
